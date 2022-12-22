@@ -1,3 +1,59 @@
-h1 {
-    color: red;
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-section {
+    background-image: url(./donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-banner {
+    color: white;
+    text-align: center;
+}
+
+.first-h1 {
+    font-size: 50px;
+}
+
+.first-p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.button-btn {
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: crimson;
+    font-size: 18px;
+    color: white;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+.sec-section {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.tittle1 {
+    font-size: 45px;
+}
+
+.para {
+    margin-top: 20px;
+    color: gray;
+    font-size: 18px;
 }
