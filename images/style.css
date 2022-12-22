@@ -57,3 +57,62 @@ body {
     color: gray;
     font-size: 18px;
 }
+
+.taka1 {
+    width: 150px;
+    height: 75px;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    color: black;
+    margin: 10px;
+}
+
+.taka2 {
+    width: 150px;
+    height: 75px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    color: white;
+    margin: 10px;
+}
+
+.taka {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.button-align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-bttn {
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: crimson;
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 100px;
+}
