@@ -39,11 +39,9 @@ body {
     background-color: crimson;
     font-size: 18px;
     color: white;
-    margin: 50px;
-    border-radius: 5px;
 }
 
-.sec-section {
+.other-section {
     text-align: center;
     margin-top: 80px;
 }
@@ -53,7 +51,7 @@ body {
 }
 
 .para {
-    margin-top: 20px;
+    margin-top: 15px;
     color: gray;
     font-size: 18px;
 }
@@ -103,20 +101,6 @@ body {
     justify-content: center;
 }
 
-.button-bttn {
-    text-decoration: none;
-    padding: 15px 30px;
-    background-color: crimson;
-    font-size: 18px;
-    color: white;
-    border-radius: 5px;
-}
-
-.donate-plan {
-    text-align: center;
-    margin-top: 100px;
-}
-
 .card-section {
     display: flex;
     align-items: center;
@@ -151,4 +135,54 @@ body {
 
 .card-tittle {
     margin: 5px;
+}
+
+.bonus-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bonus-image {
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+}
+
+.unorder-list {
+    font-size: 18px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.subscribe-btn {
+    text-decoration: none;
+    padding: 10px 10px;
+    background-color: crimson;
+    font-size: 10px;
+    color: white;
+}
+
+.box {
+    padding: 50px;
+    background-color: darkkhaki;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+.fot {
+    text-align: center;
 }
